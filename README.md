@@ -4,7 +4,7 @@
 
 This repository is a growing collection of Python solutions for HackerRank challenges and programming exercises.
 
-Solutions are submitted through QUICK PUSH, a VS Code extension developed by this repository's owner, devcodes2108. Instead of first adding a solution file to the repository manually, you paste your solution code into the extension. After you authorize your GitHub account and select a repository, QUICK PUSH creates the file there and commits and pushes the change.
+Solutions are submitted through QUICK PUSH, a Web extension developed by this repository's owner, devcodes2108. Instead of first adding a solution file to the repository manually, you paste your solution code into the extension. After you authorize your GitHub account and select a repository, QUICK PUSH creates the file there and commits and pushes the change.
 
 You can find the QUICK PUSH extension here:
 https://github.com/devcodes2108/quick-push
