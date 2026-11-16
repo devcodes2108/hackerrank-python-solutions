@@ -21,4 +21,4 @@ The repository is intended as an organized reference for practice, revision, and
 4. QUICK PUSH creates the solution file in the selected repository, then commits and pushes it to GitHub.
 5. Repeat to grow an organized collection of solutions that is easy to review and revisit.
 
-QUICK PUSH is developed by devcodes2108, the owner of this repository. The animated illustration above highlights the extension's workflow.
+QUICK PUSH is developed by devcodes2108, the owner of this repository. 
